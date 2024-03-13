@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ﻿Inhalt für die erste Datei (local bro)
+=======
+﻿Inhalt für die erste Datei
+ (Update1.0)
+>>>>>>> cc7399d9e930e05bcf92e1ed2cc17bf86bc7850a
